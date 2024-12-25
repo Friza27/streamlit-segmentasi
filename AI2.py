@@ -1,10 +1,5 @@
-import sys
-print(sys.version)
-
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 # Title and Description
 st.title("Segmentasi Pelanggan Menggunakan Data Hasil Klasifikasi")
